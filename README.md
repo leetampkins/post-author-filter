@@ -30,3 +30,4 @@ The plugin uses the following WordPress hooks:
 Resources:
 ----------
 https://github.com/leetampkins/post-author-filter
+https://developer.wordpress.org/plugins/hooks/filters
