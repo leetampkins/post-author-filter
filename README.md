@@ -29,5 +29,5 @@ The plugin uses the following WordPress hooks:
 
 Resources:
 ----------
-https://github.com/leetampkins/post-author-filter
+https://github.com/leetampkins/post-author-filter <br> 
 https://developer.wordpress.org/plugins/hooks/filters
